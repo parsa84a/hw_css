@@ -1,0 +1,68 @@
+body{
+    background-color: #001c30;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    text-align: center;
+    color: rgb(245 255 250);
+    margin-top: 200px;
+    margin-bottom: 50px;
+
+}
+button{
+    text-align: center;
+    color: black;
+    transition: .5s;
+    height: 35px;
+    width: 40px;
+    border-radius: 5px;
+    border-style: hidden;
+    margin: 5px;
+}
+
+.Pink{
+    background-color: #176B87;
+}
+button:hover{
+    background-color: #001c30;
+    color: #001c30;
+    border-style: hidden;
+}    
+.ring{
+    background-color: #64CCC5 
+    ;
+}
+#caps{
+    width: 77px;
+}
+#tab{
+    width: 60px;
+}
+#delete{
+    width: 65px;
+}
+#return{
+    width: 77px;
+}
+#shiftr{
+    width: 105px;
+}
+#shiftl{
+    width: 105px;
+}
+.pointer1{
+    background-color: #DAFFFB;
+}
+.pointer2{
+    background-color: #FFD0D0;
+}
+.Middle{
+    background-color: #FF9EAA;
+}
